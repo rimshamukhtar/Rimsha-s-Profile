@@ -1,4 +1,4 @@
-# Rimsha-s-Profile
+# About me
 
 ## Hi 👋, I'm Rimsha!
 
@@ -29,9 +29,9 @@ I love working with **React**, **Next.js**, **HTML**, **CSS**, and **JavaScript*
 ---
 
 ### 🔗 Connect with me:
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 [GitHub](https://github.com/yourusername)
-- 🌐 [LinkedIn](https://linkedin.com/in/yourusername)
+- 📧 Email: [your.email@example.com](mailto:rimshamukhtar747@gmail.com)
+- 💼 [GitHub](https://github.com/rimshamukhtar)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rimsha-mukhtar-ahmed-6b88632b5/)
 
 ---
 
@@ -43,4 +43,5 @@ I love working with **React**, **Next.js**, **HTML**, **CSS**, and **JavaScript*
 ---
 
 ### ⚡ Fun Fact:
-I can spend hours perfecting a single pixel 😄
+I write cleaner code than my desk ever looks 😅
+And yes, I love turning complex UIs into clean code!
